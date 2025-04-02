@@ -1,2 +1,6 @@
-# all_django_tutorials
-All teacher's Django tutorials for web programming Spring 2025 for INTIM23A6 group
+# Overview
+- Using the latest version of Django and Python
+- using sqlite3 as database backend
+
+## hello app
+- Hello world tutorial with Django, teaching some basics
